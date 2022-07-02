@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\bin\Debug\ASCII_ImageConvertor.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\bin\Debug\ASCII_ImageConvertor.exe
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\bin\Debug\ASCII_ImageConvertor.pdb
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\obj\Debug\ASCII_ImageConvertor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\obj\Debug\ASCII_ImageConvertor.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\obj\Debug\ASCII_ImageConvertor.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\obj\Debug\ASCII_ImageConvertor.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\obj\Debug\ASCII_ImageConvertor.exe
+c:\users\user\documents\visual studio 2013\Projects\ASCII_ImageConvertor\ASCII_ImageConvertor\obj\Debug\ASCII_ImageConvertor.pdb
